@@ -1,3 +1,5 @@
+//I made a pool manager as a singleton so replacing Instantiate and Destroy will be easier
+
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
