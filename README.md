@@ -1,1 +1,2 @@
-I made these codes to make my game development easier with Unity, these codes are short but very useful for game development progress and not available when create new project in unity
+These codes are short but very useful for game development progress. 
+Most of them are used regularly but not available when create new project in Unity, so instead of rewriting these everytime creating a new project, I made this
