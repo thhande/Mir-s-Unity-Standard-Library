@@ -1,3 +1,5 @@
+//to avoid making your code dirty with a bunch lines of if else(like a famous game developer has name start with 'Y') State Machine is recommended 
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
